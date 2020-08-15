@@ -32,3 +32,7 @@ https://www.cnblogs.com/fingerblog/p/5179853.html
 cocos2dx-js Shader的使用(高斯模糊)
 --不能用，使用内嵌shader脚本也不行
 https://blog.csdn.net/afei198409/article/details/77839330
+
+水波纹效果
+http://www.cocoachina.com/bbs/read.php?tid-1693873-page-1.html
+https://forum.cocos.org/t/shader-creator-cocos2dx/49505/6
