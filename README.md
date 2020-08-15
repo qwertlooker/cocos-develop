@@ -24,3 +24,6 @@ https://blog.csdn.net/nikoong/article/details/79776873
 
 如何理解 OpenGL 中着色器、渲染管线、光栅化等概念？
 https://www.zhihu.com/question/29163054
+
+直接嵌入shader脚本
+https://www.cnblogs.com/fingerblog/p/5179853.html
