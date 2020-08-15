@@ -35,4 +35,8 @@ https://blog.csdn.net/afei198409/article/details/77839330
 
 水波纹效果
 http://www.cocoachina.com/bbs/read.php?tid-1693873-page-1.html
+-- 
 https://forum.cocos.org/t/shader-creator-cocos2dx/49505/6
+
+Cocos2d-x3.2与OpenGL渲染总结(一)Cocos2d-x3.2的渲染流程
+https://blog.csdn.net/cbbbc/article/details/39449945
