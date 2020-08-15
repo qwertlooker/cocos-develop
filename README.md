@@ -25,5 +25,10 @@ https://blog.csdn.net/nikoong/article/details/79776873
 如何理解 OpenGL 中着色器、渲染管线、光栅化等概念？
 https://www.zhihu.com/question/29163054
 
-直接嵌入shader脚本
+Cocos2d-js中使用Shader方法 
+--直接嵌入shader脚本 可以用
 https://www.cnblogs.com/fingerblog/p/5179853.html
+
+cocos2dx-js Shader的使用(高斯模糊)
+--不能用，使用内嵌shader脚本也不行
+https://blog.csdn.net/afei198409/article/details/77839330
