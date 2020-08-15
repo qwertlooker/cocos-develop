@@ -15,3 +15,12 @@ https://ftp-apk.pconline.com.cn/pub/download/201010/hdqb_v25.176.apk?md5=Z3yw7D6
 
 1.5	Cocos2dx-js3.15 shader简单分享
 https://www.jianshu.com/p/0b28707acef5
+
+渲染基础-渲染管线（Render-pipeline）
+https://blog.csdn.net/AvatarForTest/article/details/80438344
+
+渲染管线入门
+https://blog.csdn.net/nikoong/article/details/79776873
+
+如何理解 OpenGL 中着色器、渲染管线、光栅化等概念？
+https://www.zhihu.com/question/29163054
