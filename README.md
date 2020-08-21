@@ -40,3 +40,10 @@ https://forum.cocos.org/t/shader-creator-cocos2dx/49505/6
 
 Cocos2d-x3.2与OpenGL渲染总结(一)Cocos2d-x3.2的渲染流程
 https://blog.csdn.net/cbbbc/article/details/39449945
+
+随便聊聊水面效果的2D实现（一）
+https://blog.csdn.net/tkokof1/article/details/40819225
+https://cloud.tencent.com/developer/article/1175629
+
+随便聊聊水面效果的2D实现（二）
+https://cloud.tencent.com/developer/article/1175633
