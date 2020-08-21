@@ -47,3 +47,8 @@ https://cloud.tencent.com/developer/article/1175629
 
 随便聊聊水面效果的2D实现（二）
 https://cloud.tencent.com/developer/article/1175633
+
+
+真实感水体渲染技术总结
+
+https://zhuanlan.zhihu.com/p/95917609
