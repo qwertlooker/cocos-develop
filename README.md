@@ -66,3 +66,6 @@ https://img.favpng.com/2/3/0/shore-blue-sea-sky-wallpaper-png-favpng-ui3QbseM773
 WebGL
 https://www.jianshu.com/p/75b1b4b701f7
 https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API
+
+GLSL/openGL 入门
+https://github.com/wshxbqq/GLSL-Card
