@@ -1,4 +1,10 @@
 # cocos-develop
+![cocos](cocos.png)
+
+cocos 基本概念
+https://docs.cocos.com/cocos2d-x/manual/zh/basic_concepts/
+js api接口
+https://docs.cocos2d-x.org/api-ref/js/v3x/
 
 1.1	cocos2d-js 入门 （主要是HTML5）
 https://cloud.tencent.com/developer/article/1155588
@@ -60,8 +66,8 @@ https://img.favpng.com/2/3/0/shore-blue-sea-sky-wallpaper-png-favpng-ui3QbseM773
 
 https://get.pxhere.com/photo/water-green-body-of-water-sea-underwater-turquoise-aqua-wave-sky-ocean-water-resources-marine-biology-computer-wallpaper-calm-1546155.jpg
 
-![cocos](cocos.png)
-
+nwjs帮助文档
+https://nwjs-cn.readthedocs.io/zh_CN/latest/References/Command%20Line%20Options/index.html
 
 WebGL
 https://www.jianshu.com/p/75b1b4b701f7
