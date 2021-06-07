@@ -3,6 +3,7 @@
 
 cocos 基本概念
 https://docs.cocos.com/cocos2d-x/manual/zh/basic_concepts/
+
 js api接口
 https://docs.cocos2d-x.org/api-ref/js/v3x/
 
@@ -21,6 +22,9 @@ https://ftp-apk.pconline.com.cn/pub/download/201010/hdqb_v25.176.apk?md5=Z3yw7D6
 
 1.5	Cocos2dx-js3.15 shader简单分享
 https://www.jianshu.com/p/0b28707acef5
+
+cocos-lua 贝塞尔曲线 抛物线
+https://www.jianshu.com/p/9610a857e89e
 
 渲染基础-渲染管线（Render-pipeline）
 https://blog.csdn.net/AvatarForTest/article/details/80438344
