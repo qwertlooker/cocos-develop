@@ -4,6 +4,9 @@
 cocos 基本概念
 https://docs.cocos.com/cocos2d-x/manual/zh/basic_concepts/
 
+包含样例工程的代码
+https://github.com/cocos2d/cocos2d-js
+
 js api接口
 https://docs.cocos2d-x.org/api-ref/js/v3x/
 
