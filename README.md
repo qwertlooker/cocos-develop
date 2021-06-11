@@ -82,3 +82,9 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API
 
 GLSL/openGL 入门
 https://github.com/wshxbqq/GLSL-Card
+
+
+
+其他：
+图形编译：GIMP （PS替代），Hornil StylePix（简单图像编辑，容易死）
+音乐编辑：Audacity
