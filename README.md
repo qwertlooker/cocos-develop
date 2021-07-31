@@ -83,6 +83,8 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API
 GLSL/openGL 入门
 https://github.com/wshxbqq/GLSL-Card
 
+shader介绍
+https://thebookofshaders.com/01/?lan=ch
 
 
 其他：
