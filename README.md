@@ -86,6 +86,8 @@ https://github.com/wshxbqq/GLSL-Card
 shader介绍
 https://thebookofshaders.com/01/?lan=ch
 
+SDF 计算点是否在物体内部。
+https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
 
 其他：
 图形编译：GIMP （PS替代），Hornil StylePix（简单图像编辑，容易死）
