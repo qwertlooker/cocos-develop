@@ -94,6 +94,9 @@ https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
 一文讲透2d符号距离函数
 https://vjmap.com/index.php/2021/02/26/%E4%B8%80%E6%96%87%E8%AE%B2%E9%80%8F2d%E7%AC%A6%E5%8F%B7%E8%B7%9D%E7%A6%BB%E5%87%BD%E6%95%B0sign-distance-function-sdf/
 
-其他：
+## 其他：
 图形编译：GIMP （PS替代），Hornil StylePix（简单图像编辑，容易死）
 音乐编辑：Audacity
+
+Unity游戏资源逆向工具
+https://www.cnblogs.com/kekec/p/12175547.html
