@@ -96,7 +96,7 @@ https://zhuanlan.zhihu.com/p/95917609
 https://zhuanlan.zhihu.com/p/68741433
 
 
-## 其他：
+## 工具：
 图形编译：GIMP （PS替代） Hornil StylePix（简单图像编辑，容易死）
 
 音乐编辑：Audacity
