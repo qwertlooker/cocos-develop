@@ -25,11 +25,38 @@ https://www.jianshu.com/p/d3204315b1f6
 1.4	可以解包的资源
 https://ftp-apk.pconline.com.cn/pub/download/201010/hdqb_v25.176.apk?md5=Z3yw7D6cs70vrs6hZVtSiQ&expires=1597309622
 
+cocos-lua 贝塞尔曲线 抛物线
+https://www.jianshu.com/p/9610a857e89e
+
+Cocos2d-x3.2与OpenGL渲染总结(一)Cocos2d-x3.2的渲染流程
+https://blog.csdn.net/cbbbc/article/details/39449945
+
+nwjs帮助文档
+https://nwjs-cn.readthedocs.io/zh_CN/latest/References/Command%20Line%20Options/index.html
+
+WebGL
+https://www.jianshu.com/p/75b1b4b701f7
+https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API
+
+GLSL/openGL 入门
+https://github.com/wshxbqq/GLSL-Card
+
+
+
+## shader
+
 1.5	Cocos2dx-js3.15 shader简单分享
 https://www.jianshu.com/p/0b28707acef5
 
-cocos-lua 贝塞尔曲线 抛物线
-https://www.jianshu.com/p/9610a857e89e
+shader介绍
+https://thebookofshaders.com/01/?lan=ch
+
+SDF 计算点是否在物体内部。
+https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
+
+一文讲透2d符号距离函数
+https://vjmap.com/index.php/2021/02/26/%E4%B8%80%E6%96%87%E8%AE%B2%E9%80%8F2d%E7%AC%A6%E5%8F%B7%E8%B7%9D%E7%A6%BB%E5%87%BD%E6%95%B0sign-distance-function-sdf/
+
 
 渲染基础-渲染管线（Render-pipeline）
 https://blog.csdn.net/AvatarForTest/article/details/80438344
@@ -53,8 +80,7 @@ http://www.cocoachina.com/bbs/read.php?tid-1693873-page-1.html
 
 https://forum.cocos.org/t/shader-creator-cocos2dx/49505/6
 
-Cocos2d-x3.2与OpenGL渲染总结(一)Cocos2d-x3.2的渲染流程
-https://blog.csdn.net/cbbbc/article/details/39449945
+
 
 随便聊聊水面效果的2D实现（一）
 https://blog.csdn.net/tkokof1/article/details/40819225
@@ -75,24 +101,7 @@ https://img.favpng.com/2/3/0/shore-blue-sea-sky-wallpaper-png-favpng-ui3QbseM773
 
 https://get.pxhere.com/photo/water-green-body-of-water-sea-underwater-turquoise-aqua-wave-sky-ocean-water-resources-marine-biology-computer-wallpaper-calm-1546155.jpg
 
-nwjs帮助文档
-https://nwjs-cn.readthedocs.io/zh_CN/latest/References/Command%20Line%20Options/index.html
 
-WebGL
-https://www.jianshu.com/p/75b1b4b701f7
-https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API
-
-GLSL/openGL 入门
-https://github.com/wshxbqq/GLSL-Card
-
-shader介绍
-https://thebookofshaders.com/01/?lan=ch
-
-SDF 计算点是否在物体内部。
-https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
-
-一文讲透2d符号距离函数
-https://vjmap.com/index.php/2021/02/26/%E4%B8%80%E6%96%87%E8%AE%B2%E9%80%8F2d%E7%AC%A6%E5%8F%B7%E8%B7%9D%E7%A6%BB%E5%87%BD%E6%95%B0sign-distance-function-sdf/
 
 ## 其他：
 图形编译：GIMP （PS替代） Hornil StylePix（简单图像编辑，容易死）
