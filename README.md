@@ -6,6 +6,9 @@
 cocos 基本概念
 https://docs.cocos.com/cocos2d-x/manual/zh/basic_concepts/
 
+cocos基础入门
+https://www.codercto.com/a/5519.html
+
 包含样例工程的代码
 https://github.com/cocos2d/cocos2d-js
 
@@ -43,6 +46,9 @@ https://ftp-apk.pconline.com.cn/pub/download/201010/hdqb_v25.176.apk?md5=Z3yw7D6
 
 GLSL/openGL 入门
 https://github.com/wshxbqq/GLSL-Card
+
+openGL教程
+https://learnopengl-cn.github.io/
 
 1.5	Cocos2dx-js3.15 shader简单分享
 https://www.jianshu.com/p/0b28707acef5
